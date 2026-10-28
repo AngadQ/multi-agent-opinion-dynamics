@@ -1,0 +1,7 @@
+# Direct packages imported in the Jupyter notebooks, plus the notebook interface.
+# Versions are intentionally unpinned pending reproducibility testing.
+numpy
+networkx
+matplotlib
+pandas
+jupyterlab
